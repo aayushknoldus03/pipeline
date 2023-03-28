@@ -1,6 +1,6 @@
 node {
   stage("run"){
-    sh "javac llo.java"
+    sh "javac Hello.java"
     sh "java Hello"
   }
 }

@@ -1,6 +1,6 @@
 node {
   stage("run"){
-    sh "javac JavaWorld.java"
-    sh "java JavaWorld"
+    sh "javac JavaHello.java"
+    sh "java JavaHello"
   }
 }

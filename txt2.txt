@@ -1,0 +1,8 @@
+hello
+ls
+txt1.txt
+txt2.txt
+total 12
+-rw-rw-r-- 1 knoldus knoldus  6 Mar 25 22:50 ls
+-rw-rw-r-- 1 knoldus knoldus 21 Mar 25 22:51 txt1.txt
+-rw-rw-r-- 1 knoldus knoldus 27 Mar 25 22:52 txt2.txt

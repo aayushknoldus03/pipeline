@@ -1,5 +1,8 @@
 node {
   stage("run"){
-    sh "python3 newpython.py"
+    sh "mkdir aa"
+  }
+  stage("rfile"){
+    sh "touch bb.txt"
   }
 }

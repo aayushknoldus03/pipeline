@@ -1,6 +1,5 @@
 node {
   stage("run"){
-    sh "javac HelloWorld.java"
-    sh "java HelloWorld"
+    sh "python3 newpython.py"
   }
 }

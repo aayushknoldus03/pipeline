@@ -9,3 +9,4 @@ node{
   stage("run"){
     sh "java Hello1"
 }
+}
